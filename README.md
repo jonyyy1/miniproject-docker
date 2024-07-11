@@ -1,4 +1,4 @@
-# My Node.js App with Docker
+# My Node.js App with Docker and Docker-Compose
 
 This project demonstrates how to set up a simple Node.js application using Docker and Docker Compose.
 
